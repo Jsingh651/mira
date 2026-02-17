@@ -1,6 +1,6 @@
 # Changelog
 
-## 2026-02-14
+## 2026-02-16
 
-- Project bootstrapped
+- Lexer scans tokens with positions
 
