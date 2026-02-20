@@ -1,8 +1,8 @@
 # Changelog
 
-## 2026-02-19
+## 2026-02-22
 
-- Parser builds AST with precedence climbing
+- Type checker and optimizer in place
 
 ## 2026-02-16
 
