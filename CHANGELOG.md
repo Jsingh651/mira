@@ -1,8 +1,8 @@
 # Changelog
 
-## 2026-02-22
+## 2026-02-26
 
-- Type checker and optimizer in place
+- Bytecode compiler and VM execute programs
 
 ## 2026-02-16
 
