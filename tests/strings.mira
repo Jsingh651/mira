@@ -1,0 +1,6 @@
+fn main(): void {
+    let a = "hello";
+    let b = " world";
+    print(a + b);
+    print("line1\nline2\ttab\\quote\"");
+}
