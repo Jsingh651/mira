@@ -1,0 +1,18 @@
+fn side_effect(): bool {
+    print(99);
+    return true;
+}
+
+fn main(): void {
+    print(1 < 2);
+    print(2 <= 2);
+    print(3 > 2);
+    print(2 >= 2);
+    print(1 == 1);
+    print(1 != 2);
+    print(true && false);
+    print(false || true);
+    print(!false);
+    print(false && side_effect());
+    print(true || side_effect());
+}
