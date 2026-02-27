@@ -1,0 +1,4 @@
+fn main(): void {
+    let x = 2 + 3 * 4;
+    print(x);
+}
