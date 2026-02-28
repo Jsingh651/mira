@@ -1,0 +1,13 @@
+fn main(): void {
+    if (false) {
+        print(1);
+    } else {
+        print(2);
+    }
+    if (true) {
+        print(3);
+    }
+    return;
+    print(4);
+    let unused = 5 + 6;
+}
