@@ -1,0 +1,1 @@
+tests/type_mismatch.mira:2:5: error: let 'x' declared int but initialized with bool
