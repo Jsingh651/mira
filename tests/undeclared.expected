@@ -1,0 +1,1 @@
+tests/undeclared.mira:2:11: error: use of undeclared variable 'x'
