@@ -1,0 +1,7 @@
+fn no_return(): int {
+    print(1);
+}
+
+fn main(): void {
+    print(no_return());
+}

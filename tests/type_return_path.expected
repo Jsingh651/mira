@@ -1,0 +1,1 @@
+tests/type_return_path.mira:1:1: error: function 'no_return' returns int but does not return on all paths
