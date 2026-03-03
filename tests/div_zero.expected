@@ -1,0 +1,1 @@
+tests/div_zero.mira:2: runtime error: division by zero

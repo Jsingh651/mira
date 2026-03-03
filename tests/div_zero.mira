@@ -1,0 +1,4 @@
+fn main(): void {
+    let x = 10 / 0;
+    print(x);
+}
