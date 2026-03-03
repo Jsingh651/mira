@@ -1,0 +1,11 @@
+== fn main (arity=0, locals=1) ==
+0000     2  OP_CONST              0  '14'
+0003     |  OP_STORE_LOCAL        0
+0005     |  OP_POP            
+0006     3  OP_LOAD_LOCAL         0
+0008     |  OP_PRINT          
+0009     |  OP_VOID           
+0010     |  OP_POP            
+0011     1  OP_VOID           
+0012     |  OP_RETURN         
+
